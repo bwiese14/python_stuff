@@ -111,7 +111,7 @@ if dad_type == 'good' and kid == 'Sandra' or dad_type == 'good' and kid == 'Anna
     time.sleep(2)
     print('OOOOOOOO" \n')
     time.sleep(3)
-    print(f'After the 14th variation of Despacito, {kid} falls asleep on her father\'s back)
+    print(f'After the 14th variation of Despacito, {kid} falls asleep on her father\'s back' '\n')
     time.sleep(2)      
 
 if dad_type == 'good':
