@@ -109,9 +109,10 @@ if dad_type == 'good' and kid == 'Sandra' or dad_type == 'good' and kid == 'Anna
     time.sleep(2)
     print('OOOOOOOO')
     time.sleep(2)
-    print('OOOOOOOO"')
-    time.sleep(2)
-    print()
+    print('OOOOOOOO" \n')
+    time.sleep(3)
+    print(f'After the 14th variation of Despacito, {kid} falls asleep on her father\'s back)
+    time.sleep(2)      
 
 if dad_type == 'good':
     print('MT. CLEESE \n 14,433 FEET \n VIEW --------------->')
